@@ -181,7 +181,7 @@ Austin_311_Demand_Project/
 2. Navigate to the project directory:
 
    ```bash
-   cd Austin_311_Demand_Project
+   cd Austin_311_Service_Request_Demand_Project
    ```
 
 3. Install the required Python packages:
