@@ -196,6 +196,3 @@ jupyter notebook notebooks/Austin_311_Demand_Analysis.ipynb
 ## Disclaimer
 
 This is an independent portfolio project using publicly available City of Austin and NOAA data. It is not an official City of Austin analysis or a deployed forecasting system.
-## Disclaimer
-
-This is an independent portfolio project using publicly available City of Austin and NOAA datasets. It is not an official City of Austin project, commissioned analysis, or deployed forecasting system.
